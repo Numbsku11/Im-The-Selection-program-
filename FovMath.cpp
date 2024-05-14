@@ -109,7 +109,7 @@ Fucker:
         case 2:
             FovScale -= FovScale;
             cin >> FovScale;
-            goto Fucker;
+            goto Fucker; // I hate myself, really was using goto?
             break;
         }
     }
